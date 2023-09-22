@@ -1,12 +1,12 @@
 ### Hi there 👋
-## My name is Ehsan, I’m 23 y.o software engineer from Tehran
+## My name is Ehsan, I’m 24 y.o software engineer from Tehran
 
 <!--
-**ehsangun/ehsangun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**matehsan/matehsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 I’m currently working on my personal projects.
-- 📚 I'm currently studying computer science at Azad university central Tehran branch. 
+- 📚 I'm studying computer science at Azad University central Tehran branch. 
 - 📫 How to reach me: matari.ehsan@yahoo.com
 
 
